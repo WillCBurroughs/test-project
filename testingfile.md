@@ -1,1 +1,1 @@
-Making sure project changes are listed 
+Making sure project changes are listed is added
